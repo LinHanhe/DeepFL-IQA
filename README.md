@@ -1,6 +1,6 @@
 # DeepFL-IQA
 
-This code implements an NR-IQA model based on deep feature learning.
+This code implements a NR-IQA model based on deep feature learning.
 
 Run demo.ipynb to see how to extract deep features and train shallow regression model.
 To run demo.ipynb, you need to download dataset and pre-trained model from https://osf.io/xkqjh/.
