@@ -3,7 +3,7 @@
 This code implements a NR-IQA model based on deep feature learning.
 
 Run demo.ipynb to see how to extract deep features and train shallow regression model.
-To run demo.ipynb, you need to download dataset and pre-trained model from https://osf.io/xkqjh/.
+To run demo.ipynb, you need to download KADID-10k database and pre-trained model from https://osf.io/xkqjh/.
 
 
 Please cite the following paper if you use the code:
